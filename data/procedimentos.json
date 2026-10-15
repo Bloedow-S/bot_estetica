@@ -1,0 +1,5 @@
+[
+  {"id": "1", "nome": "Limpeza de pele", "valor": 150.0, "duracao_min": 60},
+  {"id": "2", "nome": "Drenagem linfática", "valor": 120.0, "duracao_min": 50},
+  {"id": "3", "nome": "Peeling", "valor": 200.0, "duracao_min": 45}
+]
